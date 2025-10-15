@@ -25,7 +25,7 @@ This project investigates the relationship between antibiotic consumption and *E
    - File: `amu.csv`
    - 65 countries, measured in DID (Defined Daily Doses per 1,000 inhabitants per day)
 
-2. **Antimicrobial Resistance Data**  
+2. **Antimicrobial Resistance Data**  (2023)
    - Source: WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS)
    - File: `resistance.csv`
    - 879 records across 93 countries for *E. coli* bloodstream infections
@@ -69,8 +69,8 @@ pip install -r requirements.txt
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/[your-username]/antibiotic-resistance-analysis.git
-cd antibiotic-resistance-analysis
+git clone https://github.com/antea-ab/MAT2007_Project.git
+cd MAT2007_Project.git
 ```
 
 2. Install dependencies:
@@ -98,26 +98,14 @@ This analysis examined relationships between antibiotic consumption and *E. coli
 ### 3. Livestock Use vs. Human Resistance
 ![Livestock Analysis](outputs/3_livestock_vs_human_resistance.png)
 
-## Citation
-
-If you use this analysis, please cite:
-
-```
-Abilekaj, A. (2025). Antibiotic Consumption and E. coli Resistance Analysis. 
-MAT2007 Course Project. [GitHub repository URL]
-```
 
 ## Data Citations
 
-- WHO/ECDC Antimicrobial Consumption Database
+- WHO Antimicrobial Consumption Database
 - WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS)
 - Mulchandani et al. (2023). "Global trends in antimicrobial use in food-producing animals: 2020 to 2030"
 
-## License
-
-This project is available for educational and research purposes.
-
 ## Contact
 
-For questions or collaboration: [Your email]
+For questions or collaboration: a.abilekaj@student.maastrichtuniversity.nl
 
