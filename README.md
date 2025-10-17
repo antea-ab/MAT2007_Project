@@ -87,18 +87,6 @@ jupyter notebook antibiotic_resistance_analysis.ipynb
 
 This analysis examined relationships between antibiotic consumption and *E. coli* resistance using Pearson correlation analysis. Data preprocessing included filtering resistance records for *E. coli* bloodstream infections and standardizing country names. Antibiotics were categorized into seven classes (penicillins, cephalosporins, fluoroquinolones, folate inhibitors, carbapenems, and polymyxins) for comparative analysis. Statistical significance was set at p < 0.05, with a minimum of 10 country data points required for correlation analysis.
 
-## Visualizations
-
-### 1. Top Antibiotics: Human Consumption vs. Resistance
-![Top 2 Antibiotics](outputs/1_top2_antibiotics_with_countries.png)
-
-### 2. Resistance Distribution Across Countries (Color-coded by Class)
-![Resistance Distribution](outputs/2_antibiotic_resistance_distribution.png)
-
-### 3. Livestock Use vs. Human Resistance
-![Livestock Analysis](outputs/3_livestock_vs_human_resistance.png)
-
-
 ## Data Citations
 
 - WHO Antimicrobial Consumption Database
@@ -107,5 +95,5 @@ This analysis examined relationships between antibiotic consumption and *E. coli
 
 ## Contact
 
-For questions or collaboration: a.abilekaj@student.maastrichtuniversity.nl
+For questions: a.abilekaj@student.maastrichtuniversity.nl
 
